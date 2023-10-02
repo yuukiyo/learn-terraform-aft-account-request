@@ -1,9 +1,9 @@
-module "yuyoshd82" {
+module "yuyoshd83" {
   source = "./modules/aft-account-request"
 
   control_tower_parameters = {
-    AccountEmail              = "yuyoshd+82@amazon.co.jp"
-    AccountName               = "yuyoshd82"
+    AccountEmail              = "yuyoshd+83@amazon.co.jp"
+    AccountName               = "yuyoshd83"
     ManagedOrganizationalUnit = "Learn AFT"
     SSOUserEmail              = "yuyoshd@amazon.co.jp"
     SSOUserFirstName          = "aft"
