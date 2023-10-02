@@ -32,7 +32,7 @@ module "yuyoshd84" {
   control_tower_parameters = {
     AccountEmail              = "yuyoshd+84@amazon.co.jp"
     AccountName               = "yuyoshd84"
-    ManagedOrganizationalUnit = "hoge"
+    ManagedOrganizationalUnit = "piyo"
     SSOUserEmail              = "yuyoshd@amazon.co.jp"
     SSOUserFirstName          = "aft"
     SSOUserLastName           = "test"
