@@ -3,8 +3,8 @@ module "yuyoshd83" {
 
   control_tower_parameters = {
     AccountEmail              = "yuyoshd+83@amazon.co.jp"
-    AccountName               = "yuyoshd83"
-    ManagedOrganizationalUnit = "Learn AFT"
+    AccountName               = "modyuyoshd83"
+    ManagedOrganizationalUnit = "hoge"
     SSOUserEmail              = "yuyoshd@amazon.co.jp"
     SSOUserFirstName          = "aft"
     SSOUserLastName           = "test"
